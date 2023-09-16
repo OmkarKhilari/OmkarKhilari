@@ -17,4 +17,3 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=omkarkhilari&show_icons=true&locale=en&layout=compact" alt="omkarkhilari" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omkarkhilari&" alt="omkarkhilari" /></p>
