@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Omkar Khilari</h1>
 <h3 align="center">An Undergrad Student at IIT Hyderabad and a passionate Developer from India</h3>
 
-- 📫 How to reach me **omkark19work@gmail.com**
+- 📫 How to reach me **omkarkhilari95@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
